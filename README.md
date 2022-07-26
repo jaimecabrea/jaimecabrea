@@ -29,6 +29,7 @@ I am a rising junior majoring in Computer Science at the University of Californi
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://pandas.pydata.org/docs/getting_started/overview.html" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="36" height="36" alt="Pandas" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.png" width="36" height="36" alt="R" /></a>
 </p>
 
 
