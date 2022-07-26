@@ -10,7 +10,7 @@ I am a rising junior majoring in Computer Science at the University of Californi
 * 🖥️  See my portfolio at [Who am I](LINK)
 * ✉️  You can contact me at [jamiescc2020@gmail.com](mailto:jamiescc2020@gmail.com)
 * 🧠  I'm learning React, Angular, AWS
-* ⚡  Outside of tech, I like spending quality time with family, trying new food, reading about finances, and focusing on health & wellness.
+* ⚡  Outside of tech, I like spending quality time with family, trying new food, reading about finance, as well as focusing on health & wellness.
 
 ### Skills
 
