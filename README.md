@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 * 🌍  I'm based in Berkeley, CA
 * 🖥️  See my portfolio at [Who am I](LINK)
 * ✉️  You can contact me at [jamiescc2020@gmail.com](mailto:jamiescc2020@gmail.com)
-<!-- * 🚀  I'm currently working on [untStatus](http://untstatus.com) -->
+* 🚀  I'm currently working on [untStatus](http://untstatus.com)
 * 🧠  I'm learning React, Angular, AWS
-<!-- * 🤝  I'm open to collaborating on Websites, App Applications, and Automation projects -->
+* 🤝  I'm open to collaborating on Websites, App Applications, and Automation projects
 * ⚡  Outside of tech, I like spending quality time with family, trying new food, reading about finances, and focusing on health & wellness.
 
 -->
