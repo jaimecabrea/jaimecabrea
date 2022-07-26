@@ -31,6 +31,10 @@ I am a rising junior majoring in Computer Science at the University of Californi
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.png" width="36" height="36" alt="R" /></a>
 </p>
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/jaimecabrea"><img src="https://github-readme-stats.vercel.app/api?username=jaimecabrea&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="jaimecabrea's GitHub stats" /></a>
+
 
 
 <!--
