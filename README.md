@@ -9,7 +9,7 @@ I am a senior majoring in Computer Science at the University of California, Berk
 * 🌍  I'm based in Berkeley, CA
 * 🖥️  See my portfolio at [Who am I](https://jaimecabrea.github.io/jaimecabrea/)
 * ✉️  You can contact me at [jaimecabrera@berkeley.edu](mailto:jaimecabrera@berkeley.edu)
-* 🧠  I'm learning React, Angular, AWS
+* 🧠  I'm learning cloud technologies
 * ⚡  Outside of tech, I like spending quality time with family, trying new food, reading about finance, as well as focusing on health & wellness.
 
 ### Skills
