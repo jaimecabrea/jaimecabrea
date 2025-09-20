@@ -11,7 +11,7 @@ I am a software engineer with a bachelors in Data Science from the University of
 * ✉️  You can contact me at [jaimecabrera@berkeley.edu](mailto:jaimecabrera@berkeley.edu)
 * 🧠  I'm learning cloud technologies
 * ⚡  Outside of tech, I like spending quality time with family, trying new food, reading about finance, as well as focusing on health & wellness.
-
+<!--
 ### Skills
 
 <p align="left">
@@ -31,6 +31,7 @@ I am a software engineer with a bachelors in Data Science from the University of
 <a href="https://pandas.pydata.org/docs/getting_started/overview.html" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="36" height="36" alt="Pandas" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.png" width="36" height="36" alt="R" /></a>
 </p>
+-->
 
 <!--
 <b>My GitHub Stats</b>
