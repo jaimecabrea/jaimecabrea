@@ -4,12 +4,12 @@ Hi! 👋 My Name is Jaime
 Software Engineer
 --------------------
 
-I am a software engineer with a bachelors in Data Science from the University of California, Berkeley. My primary niche is software development, data analysis, and ML. I am always looking for new ways to learn from, interact with, and empower those around me.
+I am a software engineer with a degree in Data Science from the University of California, Berkeley. My primary niche is software development, data analysis, and ML. I am always looking for new ways to learn from, interact with, and empower those around me.
 
 * 🌍  I'm based in Palo Alto, CA
 * 🖥️  See my portfolio at [Who am I](https://jaimecabrea.github.io/jaimecabrea/)
 * ✉️  You can contact me at [jaimecabrera@berkeley.edu](mailto:jaimecabrera@berkeley.edu)
-* 🧠  I'm learning cloud technologies
+<!--* 🧠  I'm learning cloud technologies -->
 * ⚡  Outside of tech, I like spending quality time with family, trying new food, reading about finance, as well as focusing on health & wellness.
 <!--
 ### Skills
